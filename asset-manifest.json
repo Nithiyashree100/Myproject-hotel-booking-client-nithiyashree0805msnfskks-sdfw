@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nithiyashree100/Myproject-hotel-booking-client-nithiyashree0805msnfskks-sdfw.git/static/css/main.a93ac214.css",
+    "main.js": "/Nithiyashree100/Myproject-hotel-booking-client-nithiyashree0805msnfskks-sdfw.git/static/js/main.1d2aa448.js",
+    "index.html": "/Nithiyashree100/Myproject-hotel-booking-client-nithiyashree0805msnfskks-sdfw.git/index.html",
+    "main.a93ac214.css.map": "/Nithiyashree100/Myproject-hotel-booking-client-nithiyashree0805msnfskks-sdfw.git/static/css/main.a93ac214.css.map",
+    "main.1d2aa448.js.map": "/Nithiyashree100/Myproject-hotel-booking-client-nithiyashree0805msnfskks-sdfw.git/static/js/main.1d2aa448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93ac214.css",
+    "static/js/main.1d2aa448.js"
+  ]
+}
